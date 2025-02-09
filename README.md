@@ -1,5 +1,6 @@
 # IntelliScout Ver.2
 
+
 ## 🚀 Project Overview
 IntelliScout Ver.2 is an advanced Spybot Monitoring System designed for real-time surveillance and feedback transmission. This system operates in both manual and automatic hybrid modes, offering enhanced flexibility and control. It is capable of detecting obstacles using a radar system and provides visual feedback with color indicators:
 - **Red Signal:** Indicates the presence of an obstacle, displaying distance and angle information.
@@ -42,6 +43,7 @@ This System of the security surveillance robot can be operated in two ways i.e. 
 
 ## 🌟 Block Diagram
 ![image](https://github.com/user-attachments/assets/843c3ff6-6790-40aa-979b-2dba178b4ca8)
+<br>
 Fig1: Block Diagram of Surveillance Robot
 
 
@@ -96,6 +98,7 @@ Fig: 7.1
 Connections of Surveillance Robot
 From ESP-32 to Other Components:
  Pin
+![image](https://github.com/user-attachments/assets/51471fcd-93c5-4572-b12a-62c796e92887)
 
 ![image](https://github.com/user-attachments/assets/590243e9-2cab-4f75-90fa-8c3fbca3641e)
 <hr>
@@ -130,7 +133,16 @@ Surveillance
 - **Power Management:** Optimizing battery life for prolonged operations.
 
 ## 🖼️ Gallery
-*(Add images or screenshots of your project here)*
+
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1BgycYz_Y-RsCUGoMiMVxPy2b0Y7DPQ6G" alt="Image 1" width="200" style="margin-right: 10px;"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Wj3YJmR5ZdNBK-ohh3R9zZHg_WyCZjL9" alt="Image 2" width="200"/>
+</div>
+
+
+<!-- Add more images following the same format -->
+
 
 ## 🔗 Links
 - **Video Demonstration:** [Insert Video Link Here]
