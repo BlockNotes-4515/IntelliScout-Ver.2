@@ -39,12 +39,23 @@ IntelliScout Ver.2 introduces a hybrid operational mode, combining manual and au
 ## 🌟 Design and Implementation
 This System of the security surveillance robot can be operated in two ways i.e. the robot can be used in automatic mode or it can also be controlled manually through the web. This facility helps the user to get a video – feed at all times which can be seen live or through recording. Both the operations are implemented using separate circuits, the manual operation is done using a circuit that uses ESP-32 as its core and the automatic operation is done by using ESP-32 as its core. But both modes cannot be used simultaneously they have to be preset do work in a particular operating mode. The circuits are constructed considering the drawback, each circuit has its own drawbacks if taken individually but if used together they eliminate most of the drawbacks.
 <br>
-![image](https://github.com/user-attachments/assets/b1db662e-d888-4815-98c8-342e48796624)
+## 🖼️ Gallery
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b1db662e-d888-4815-98c8-342e48796624" alt="Centered Image" width="400"/>
+</div>
+
 <hr>
 
 ## 🌟 Block Diagram
 <br>
-![image](https://github.com/user-attachments/assets/843c3ff6-6790-40aa-979b-2dba178b4ca8)
+
+## 🖼️ Gallery
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/843c3ff6-6790-40aa-979b-2dba178b4ca8" alt="Centered Image" width="400"/>
+</div>
+
 <br><br>
 <center><h1>Fig1: Block Diagram of Surveillance Robot</h1></center>
 
@@ -78,7 +89,12 @@ The hardware is comprised of the following components:
 3. **Static IP Communication:** Ensures stable, secure data transmission.
 4. **Control Interface:** Tablets and laptops receive and display real-time feedback.
 <br><br>
-![image](https://github.com/user-attachments/assets/9574bb6e-87fb-4d77-a671-19ce20eb6c22)
+## 🖼️ Gallery
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9574bb6e-87fb-4d77-a671-19ce20eb6c22" alt="Centered Image" width="400"/>
+</div>
+
 <hr>
 
 ## 🛠️ Connections
@@ -106,9 +122,13 @@ The hardware is comprised of the following components:
 Connections of Surveillance Robot
 From ESP-32 to Other Components:
  Pin
-![image](https://github.com/user-attachments/assets/51471fcd-93c5-4572-b12a-62c796e92887)
+## 🖼️ Gallery
 
-![image](https://github.com/user-attachments/assets/590243e9-2cab-4f75-90fa-8c3fbca3641e)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/51471fcd-93c5-4572-b12a-62c796e92887" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/590243e9-2cab-4f75-90fa-8c3fbca3641e" alt="Image 2" width="300"/>
+</div>
+
 <hr>
 
 ## 🚖_Working Methods_
@@ -120,8 +140,7 @@ The robot is switched on by using 12V DC batteries as the power supply from exte
 6. The controls will be forward, backward, right, left, stop, flash, servo and speed of motor.
 7. The device can be controlled from anywhere in the world with any internet enabled device.
 8. The live viewing can be seen in the monitor of the controlling device.
-
-Surveillance
+<hr>
 
 ## 🛠️ Applications
 - **Non-Human Intervention Areas:** Ensures safety in hazardous environments.
@@ -139,8 +158,6 @@ Surveillance
 - **Connectivity Issues:** Initial challenges with stable static IP setup.
 - **Obstacle Detection Accuracy:** Fine-tuning radar sensitivity for varying environments.
 - **Power Management:** Optimizing battery life for prolonged operations.
-
-## 🖼️ Gallery
 
 ## 🖼️ Gallery
 
@@ -163,16 +180,14 @@ Surveillance
   <img src="https://drive.google.com/uc?export=view&id=1QsFAtFufDagzluAyueFj7YhRfZ7ZatG2" alt="Image 7" width="200" style="margin-right: 10px;"/>
   <img src="https://drive.google.com/uc?export=view&id=1znQ3aJeiKRylbU9drUbn0zmOdg4cMrCr" alt="Image 8" width="200"/>
 </div>
-
-
-
 <!-- Add more images following the same format -->
 
 
 ## 🔗 Links
-- **Video Demonstration:** [Insert Video Link Here]
-- **Project Presentation (PPT):** [Insert PPT Link Here]
-- **Project Documentation:** [Insert Doc Link Here]
+- **Video Demonstration:** [https://drive.google.com/file/d/1IzkPWICe1Skf9n4ZQYZvPlphjJqqmYI4/view?usp=sharing]
+- **Project Presentation (PPT):** [https://drive.google.com/file/d/1c6ADDGAFiS-kNQgDVOwNIlyKjZxur9Pz/view?usp=sharing]
+- **Canva (Public-Link):** [https://drive.google.com/file/d/1IzkPWICe1Skf9n4ZQYZvPlphjJqqmYI4/view?usp=sharing]
+- **Project Documentation:** [https://drive.google.com/file/d/1iMnpbvhqf9GxEDpckzevKNTRLOb6rxXe/view?usp=sharing]
 
 ## 📞 Contact
 - **Dhruv Dhayal** - [dhayaldhruv271@gmail.com](mailto:dhayaldhruv271@gmail.com)
