@@ -39,19 +39,13 @@ IntelliScout Ver.2 introduces a hybrid operational mode, combining manual and au
 ## 🌟 Design and Implementation
 This System of the security surveillance robot can be operated in two ways i.e. the robot can be used in automatic mode or it can also be controlled manually through the web. This facility helps the user to get a video – feed at all times which can be seen live or through recording. Both the operations are implemented using separate circuits, the manual operation is done using a circuit that uses ESP-32 as its core and the automatic operation is done by using ESP-32 as its core. But both modes cannot be used simultaneously they have to be preset do work in a particular operating mode. The circuits are constructed considering the drawback, each circuit has its own drawbacks if taken individually but if used together they eliminate most of the drawbacks.
 <br>
-## 🖼️ Gallery
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b1db662e-d888-4815-98c8-342e48796624" alt="Centered Image" width="400"/>
 </div>
-
 <hr>
 
 ## 🌟 Block Diagram
 <br>
-
-## 🖼️ Gallery
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/843c3ff6-6790-40aa-979b-2dba178b4ca8" alt="Centered Image" width="400"/>
 </div>
@@ -122,7 +116,6 @@ The hardware is comprised of the following components:
 Connections of Surveillance Robot
 From ESP-32 to Other Components:
  Pin
-## 🖼️ Gallery
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/51471fcd-93c5-4572-b12a-62c796e92887" alt="Image 1" width="300" style="margin-right: 10px;"/>
@@ -195,6 +188,33 @@ The robot is switched on by using 12V DC batteries as the power supply from exte
 - **Linkdin** - [Join Our Community](https://www.linkedin.com/company/the-cyber-geeks/?viewAsMember=true)
 - **Instagram** - [Follow & Support Us](https://www.instagram.com/cybergeeks.iitm/?hl=en)
 - *(Hiring is Open For Marketing & Management)*
+
+## 🖼️ Gallery Of TechnoSapiens (SDIC * AIEC) '2K25
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1j1iDx6Ct__BQF74X-5yF_2OBmmXipY_S" width="400" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1vcF54q-XAeGAtlEnfcTmy5uqP_xjG0lq" width="400" style="margin: 10px;">
+
+  <img src="https://drive.google.com/uc?export=view&id=1AcL3aCu6OwGBHrBkQWuD44HlQvs2ALhP" width="400" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1ajR_8iOWnuxplOFnpzYv4KxzFagLrdUm" width="400" style="margin: 10px;">
+
+  <img src="https://drive.google.com/uc?export=view&id=1UNxBxuocuS1leaW5xab3Ao0YnnG7X6gS" width="400" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1g-kYKC9_I1TUjujrESzB9cb-KzUTUk0Z" width="400" style="margin: 10px;">
+
+  <img src="https://drive.google.com/uc?export=view&id=1zrGCW-I8BK9kLmEvE1wZhzyEw30nUygm" width="400" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1fs1KD6KtySsiuVMcfx9qIHzVuNf2Vc-_" width="400" style="margin: 10px;">
+
+  <img src="https://drive.google.com/uc?export=view&id=1-Acd3E800xWjeLDJ9HmEc2UKBHDY6TJW" width="400" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1r2yNcR4vgaF2W4mJ8pLuESonKhrXukLj" width="400" style="margin: 10px;">
+
+  <img src="https://drive.google.com/uc?export=view&id=1p4ZTvfq1nbYGyOe2WT-3BRO1QRHaiyRv" width="400" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1hAw9O8G_Q9jMIVq07uTpMNEFC-UKRz7N" width="400" style="margin: 10px;">
+
+  <img src="https://drive.google.com/uc?export=view&id=1fxaFhqwWWOXDeJR8ipKedmiCpC3qTC7x" width="400" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1ygrU8NZPSp6CHUatriAF-I_rWHGHYiOz" width="400" style="margin: 10px;">
+</div>
+
+
 
 ---
 
