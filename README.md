@@ -38,15 +38,15 @@ IntelliScout Ver.2 introduces a hybrid operational mode, combining manual and au
 
 ## 🌟 Design and Implementation
 This System of the security surveillance robot can be operated in two ways i.e. the robot can be used in automatic mode or it can also be controlled manually through the web. This facility helps the user to get a video – feed at all times which can be seen live or through recording. Both the operations are implemented using separate circuits, the manual operation is done using a circuit that uses ESP-32 as its core and the automatic operation is done by using ESP-32 as its core. But both modes cannot be used simultaneously they have to be preset do work in a particular operating mode. The circuits are constructed considering the drawback, each circuit has its own drawbacks if taken individually but if used together they eliminate most of the drawbacks.
+<br>
 ![image](https://github.com/user-attachments/assets/b1db662e-d888-4815-98c8-342e48796624)
 <hr>
 
 ## 🌟 Block Diagram
-![image](https://github.com/user-attachments/assets/843c3ff6-6790-40aa-979b-2dba178b4ca8)
 <br>
-Fig1: Block Diagram of Surveillance Robot
-
-
+![image](https://github.com/user-attachments/assets/843c3ff6-6790-40aa-979b-2dba178b4ca8)
+<br><br>
+<center><h1>Fig1: Block Diagram of Surveillance Robot</h1></center>
 
 ## 📚 Introduction
 IntelliScout Ver.2 was developed to address the growing need for efficient, real-time monitoring systems in areas that are hazardous or inaccessible to humans. By leveraging advanced robotics and communication technologies, IntelliScout offers a comprehensive solution for surveillance, inspection, and monitoring tasks.
@@ -77,24 +77,32 @@ The hardware is comprised of the following components:
 2. **Radar System:** Detects obstacles, measuring distance and angle.
 3. **Static IP Communication:** Ensures stable, secure data transmission.
 4. **Control Interface:** Tablets and laptops receive and display real-time feedback.
+<br><br>
 ![image](https://github.com/user-attachments/assets/9574bb6e-87fb-4d77-a671-19ce20eb6c22)
 <hr>
 
 ## 🛠️ Connections
-Pin Connections:
-From ESP-32 to L293N Motor Driver
- Pin 14 – R1
- Pin 15 – R2
- Pin 13 – L1
- Pin 12 – L2
- 5V -- 5V
- Grd -- Grd
-From L293N Motor Driver to Motors
- O1 – Motor 1(side 1)
- O2 – Motor 1(side 2)
- O3 – Motor 2(side 1)
- O4 – Motor 2(side 2)
-Fig: 7.1
+<h1><center>Pin Connections:</center></h1>.
+<h2><center>From ESP-32 to L293N Motor Driver</center></h2>
+<ul type="I">
+  <li>Pin 14 – R1</li>
+<li>Pin 15 – R2</li>
+<li>Pin 13 – L1</li>
+<li>Pin 12 – L2</li>
+<li>5V -- 5V</li>
+<li>Grd -- Grd</li>
+</ul>
+
+<h2><center>From L293N Motor Driver to Motors</center></h2>
+<ul type="I">
+  <li>O1 – Motor 1(side 1)</li>
+ <li>O2 – Motor 1(side 2)</li>
+ <li>O3 – Motor 2(side 1)</li>
+ <li>O4 – Motor 2(side 2)</li>
+</ul>
+<br>
+<b><u><center>Fig: 1.1</center></u></b>
+
 Connections of Surveillance Robot
 From ESP-32 to Other Components:
  Pin
