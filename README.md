@@ -1,4 +1,7 @@
-# IntelliScout Ver.2
+<div align="center">
+  <h2>IntelliScout Ver.2</h2>
+</div>
+
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1TRX592mM476bLiqJTedl318-Pe8DsQQ_" alt="Centered Image" width="300" style="margin: 10px;"/>
 </div>
@@ -218,4 +221,9 @@ The robot is switched on by using 12V DC batteries as the power supply from exte
 
 *For any queries or collaboration opportunities, feel free to reach out to us!*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Footer" border="2">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+       alt="Footer" 
+       style="border: 2px solid black; display: block; margin: 0 auto;"/>
+</div>
+
