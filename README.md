@@ -213,6 +213,9 @@ The robot is switched on by using 12V DC batteries as the power supply from exte
 
   <img src="https://drive.google.com/uc?export=view&id=1fxaFhqwWWOXDeJR8ipKedmiCpC3qTC7x" width="400" style="margin: 10px;">
   <img src="https://drive.google.com/uc?export=view&id=1ygrU8NZPSp6CHUatriAF-I_rWHGHYiOz" width="400" style="margin: 10px;">
+
+  <img src="Group Photo.jpg" width="400" style="margin: 10px;">
+  <img src="Untitled.png" width="400" style="margin: 10px;">
 </div>
 
 
